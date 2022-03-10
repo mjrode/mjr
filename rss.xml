@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Mar 2022 07:57:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Big Bend Trip]]></title>
+            <guid>dbd40a77619e4105b3a4a4209ae833c4</guid>
+            <pubDate>Thu, 10 Mar 2022 05:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="big-bend-trip">Big Bend Trip</h1>
+<h2 id="dates">Dates</h2>
+<ul>
+<li>03/11/2022 - 03/14-2022</li>
+</ul>
+<h2 id="airbnb">Airbnb</h2>
+<ul>
+<li><a title="https://www.airbnb.com/trips/v1/3c2e1fd1-ade7-492b-8369-fa49d7f65f9e/ro/RESERVATION_USER_CHECKIN/HMS4NAM58H" href="https://www.airbnb.com/trips/v1/3c2e1fd1-ade7-492b-8369-fa49d7f65f9e/ro/RESERVATION_USER_CHECKIN/HMS4NAM58H">Terlingua</a>
+<ul>
+<li><strong>Address:</strong> Terlingua, Texas 79852</li>
+<li><strong>Days:</strong> Mar 11-13</li>
+</ul>
+</li>
+<li><a title="https://www.airbnb.com/trips/v1/3c2e1fd1-ade7-492b-8369-fa49d7f65f9e/ro/RESERVATION_USER_CHECKIN/HMPSCYA2F3" href="https://www.airbnb.com/trips/v1/3c2e1fd1-ade7-492b-8369-fa49d7f65f9e/ro/RESERVATION_USER_CHECKIN/HMPSCYA2F3">Marfa</a>
+<ul>
+<li><strong>Address:</strong> 312 West Texas Street Marfa, Texas</li>
+<li><strong>Days:</strong> Mar 13-14</li>
+</ul>
+</li>
+</ul>
+<h2 id="packing-list">Packing list</h2>
+<h2 id="things-to-do">Things to do</h2>
+<ul>
+<li>Plan out a hike</li>
+</ul>
+<h2 id="other">Other</h2>
+<h2 id="enzo-plans">Enzo plans</h2>
+<ul>
+<li>Check if he can get into the park</li>
+</ul>
+<p>:[
+Secret</p>
+<p>This is a secret</p>
+<p>]:</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
