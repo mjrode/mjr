@@ -4,9 +4,25 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Cloudsql postgres]]></title>
+            <guid>3d7cea9a079941fa9c59949978b46ff2</guid>
+            <pubDate>Thu, 10 Mar 2022 08:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="cloudsql-postgres">CloudSQL Postgres</h1>
+<h2 id="create-and-manage-databases">Create and manage databases</h2>
+<p>A newly-created instance has a postgres database. The postgres database is the default database you connect to before you have created any other databases. Once you create another database, switch to it in order to create tables and insert data.</p>
+<p>Don’t use the postgres database for your application’s data.</p>
+<p>Don’t use the postgres database for user data. It is intended for administrative purposes, for example as a database to connect to if you want to run CREATE DATABASE.</p>
+<h2 id="create-and-manage-users">Create and manage users</h2>
+<p>For Cloud SQL for PostgreSQL, the default user is postgres.
+Users created on instances using IAM database authentication aren’t granted any privileges on any databases, by default.</p>
+<h2 id="schemas">Schemas</h2>
+<p>Also by default in PostgreSQL, any user who can connect to a database can create new objects to the public schema.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Big Bend Trip]]></title>
             <guid>dbd40a77619e4105b3a4a4209ae833c4</guid>
